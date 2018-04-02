@@ -1,5 +1,4 @@
 import react from 'react';
-import crypt from './crypt';
 import momentTimeZone from 'moment-timezone'
 import moment from 'moment/min/moment-with-locales'
 import config, { configConsole } from '../config';
