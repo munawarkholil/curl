@@ -2,9 +2,11 @@
 esoftplay curl
 
 # installation
-1. clone repo
-2. create class extends Esoftplay_Curl
-3. override any function you want
+1. install momentjs moment-timezone
+2. create config file
+3. clone repo
+4. create class extends Esoftplay_Curl
+5. override any function you want
 
 # usage
   Methode GET => new Curl('uri',null,
